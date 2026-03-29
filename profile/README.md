@@ -1,6 +1,6 @@
 # Juan Guillermo Gutiérrez Gamboa
 
-**Systems Engineering student at Universidad de los Andes (Bogotá, Colombia)**
+**Systems Engineering graduate from Universidad de los Andes (Bogotá, Colombia)**
 
 This organization holds the projects developed throughout my undergraduate degree — from low-level graphics programming and data structures to full-stack web applications, machine learning pipelines, and data engineering tools built on real Colombian government datasets.
 
