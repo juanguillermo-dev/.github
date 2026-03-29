@@ -2,7 +2,7 @@
 
 **Systems Engineering graduate from Universidad de los Andes (Bogotá, Colombia)**
 
-This organization holds the projects developed throughout my undergraduate degree — from low-level graphics programming and data structures to full-stack web applications, machine learning pipelines, and data engineering tools built on real Colombian government datasets.
+This organization holds the projects developed throughout my undergraduate degree — from low-level graphics programming and data structures to full-stack web applications, machine learning pipelines, and data engineering tools built on real Colombian government datasets. I build things end-to-end — from database schemas and async task queues to frontend interfaces and ML pipelines. My thesis was a production ML platform for the Colombian Air Force. I'm currently seeking software engineering or data roles in China.
 
 ---
 
